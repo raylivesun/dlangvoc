@@ -3,7 +3,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
-    <body style="background-color:  gainsboro;">
+    <body style="background-color:  gainsboro;>
         <div>
             <div align="left">
                         </div><div align="right">
@@ -12,12 +12,10 @@
                     <td style="color: gray;">
                             <p>Prado et al. Journal of Health, Population and Nutrition (2018) 37:13<br>
                                 https://doi.org/10.1186/s41043-018-0145-1</p>
-                        </td>                        
-                    
+                        </td>
                     <td style="color: gray;">
                             <h2>Journal of Health,<br> Population and Nutrition</h2>
-                        </td>
-                                        
+                        </td>                                        
                 </tr>
             </tbody></table>
         </div>
